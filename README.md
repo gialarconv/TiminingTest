@@ -8,7 +8,7 @@ Cada script viene documentado función por función.
 
 El proceso de obtención de la data, ocurre en 3 scripts:
 Request Terrain => Obtiene el modelo.<br />
-Shovel Manager => Obtiene los datos de los shovels. Ademá<br />s es el encargado de instanciar los addressbles dentro de la escena.<br />
+Shovel Manager => Obtiene los datos de los shovels. Además es el encargado de instanciar los addressbles dentro de la escena.<br />
 Report Manager => Obtiene los datos de los reportes.<br />
 
 El proyecto posee addressables, para obtener un mejor rendimiento al momento de instanciar los objetos en la escena.
