@@ -1,0 +1,105 @@
+{
+    "Reports": [
+        {
+            "ShovelID": 3302,
+            "Performance": 0.0,
+            "PlannedPerformance": 1000.0,
+            "LastStates": [
+                {
+                    "Start": "2021-02-23T09:00:00Z",
+                    "End": "2021-02-23T23:59:59Z",
+                    "Name": "EN MANTENCION",
+                    "Color": "#C10000"
+                }
+            ]
+        },
+        {
+            "ShovelID": 3298,
+            "Performance": 277.8999938964844,
+            "PlannedPerformance": 1000.0,
+            "LastStates": [
+                {
+                    "Start": "2021-02-23T09:00:00Z",
+                    "End": "2021-02-23T11:00:00Z",
+                    "Name": "ACTIVO",
+                    "Color": "#20A51B"
+                },
+                {
+                    "Start": "2021-02-23T11:01:00Z",
+                    "End": "2021-02-23T23:59:59Z",
+                    "Name": "FALLO",
+                    "Color": "#C10000"
+                }
+            ]
+        },
+        {
+            "ShovelID": 3294,
+            "Performance": 883.5999755859375,
+            "PlannedPerformance": 1000.0,
+            "LastStates": [
+                {
+                    "Start": "2021-02-23T09:00:00Z",
+                    "End": "2021-02-23T10:00:00Z",
+                    "Name": "Activo",
+                    "Color": "#20A51B"
+                },
+                {
+                    "Start": "2021-02-23T10:00:00Z",
+                    "End": "2021-02-23T12:00:00Z",
+                    "Name": "EN MANTENCION",
+                    "Color": "#C10000"
+                },
+                {
+                    "Start": "2021-02-23T12:00:00Z",
+                    "End": "2021-02-23T23:59:59Z",
+                    "Name": "ACTIVO",
+                    "Color": "#20A51B"
+                }
+            ]
+        },
+        {
+            "ShovelID": 3296,
+            "Performance": 501.79998779296877,
+            "PlannedPerformance": 1000.0,
+            "LastStates": [
+                {
+                    "Start": "2021-02-23T09:00:00Z",
+                    "End": "2021-02-23T16:00:00Z",
+                    "Name": "ACTIVO",
+                    "Color": "#20A51B"
+                },
+                {
+                    "Start": "2021-02-23T16:00:00Z",
+                    "End": "2021-02-23T23:59:59Z",
+                    "Name": "FALLO",
+                    "Color": "#C10000"
+                }
+            ]
+        },
+        {
+            "ShovelID": 3300,
+            "Performance": 907.2000122070313,
+            "PlannedPerformance": 1000.0,
+            "LastStates": [
+                {
+                    "Start": "2021-02-23T09:00:00Z",
+                    "End": "2021-02-23T10:00:00Z",
+                    "Name": "ACTIVO",
+                    "Color": "#20A51B"
+                },
+                {
+                    "Start": "2021-02-23T10:00:00Z",
+                    "End": "2021-02-23T11:00:00Z",
+                    "Name": "EN MANTENCION",
+                    "Color": "#C10000"
+                },
+                {
+                    "Start": "2021-02-23T11:00:00Z",
+                    "End": "2021-02-23T23:59:59Z",
+                    "Name": "ACTIVO",
+                    "Color": "#20A51B"
+                }
+            ]
+        }
+    ]
+}
