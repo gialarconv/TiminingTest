@@ -14,7 +14,9 @@ También añadi una opción para trabajar desde editor, por lo cual esta present
 alojado los JSON de Shovels y Reportes.
 
 Atajos de la camara:
-![](Cheat sheet.PNG)
+
+![Cheat Sheet](Cheat sheet.PNG)
+
 
 Assets usados:
 Shovel 3D Model: https://assetstore.unity.com/packages/3d/props/realistic-shovel-clean-179431
