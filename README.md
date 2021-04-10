@@ -11,10 +11,10 @@ Request Terrain => Obtiene el modelo.<br />
 Shovel Manager => Obtiene los datos de los shovels. Además es el encargado de instanciar los addressbles dentro de la escena.<br />
 Report Manager => Obtiene los datos de los reportes.<br />
 
-El proyecto posee addressables, para obtener un mejor rendimiento al momento de instanciar los objetos en la escena.
+El proyecto posee addressables, para obtener un mejor rendimiento al momento de instanciar los objetos en la escena.<br />
 
 También añadi una opción para trabajar desde editor, por lo cual esta presente una carpeta llamada StreamingAssets, en donde tengo
-alojado los JSON de Shovels y Reportes.
+alojado los JSON de Shovels y Reportes.<br />
 
 Atajos de la camara:
 
@@ -27,6 +27,6 @@ Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/cope-fre
 
 Repositorios:
 
-Object Importer: https://github.com/PhalanxHead/UnityRuntimeOBJLoaderDocs
-SimpleJSON: https://wiki.unity3d.com/index.php/SimpleJSON
-MaxCamera: https://github.com/jjhesk/unity-interview/blob/master/Assets/Plugins/reusable/camera/maxCamera.cs
+Object Importer: https://github.com/PhalanxHead/UnityRuntimeOBJLoaderDocs<br />
+SimpleJSON: https://wiki.unity3d.com/index.php/SimpleJSON<br />
+MaxCamera: https://github.com/jjhesk/unity-interview/blob/master/Assets/Plugins/reusable/camera/maxCamera.cs<br />
