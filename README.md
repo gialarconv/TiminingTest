@@ -15,7 +15,7 @@ alojado los JSON de Shovels y Reportes.
 
 Atajos de la camara:
 
-![Cheat Sheet](Cheat sheet.PNG)
+![Cheat Sheet](Cheatsheet.PNG)
 
 
 Assets usados:
