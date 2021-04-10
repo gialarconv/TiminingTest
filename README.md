@@ -1,6 +1,9 @@
 # TiminingTest
 Este repositorio contiene todo lo necesario para el correcto funcionamiento de los requerimientos de Timining.
 
+Unity versión: 2020.3.2f1 LTS.
+Plataforma de compilado: PC Standalone
+
 Cada script viene documentado función por función.
 
 El proceso de obtención de la data, ocurre en 3 scripts:
