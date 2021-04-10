@@ -22,8 +22,8 @@ Atajos de la camara:
 
 
 Assets usados:
-Shovel 3D Model: https://assetstore.unity.com/packages/3d/props/realistic-shovel-clean-179431
-Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/cope-free-skybox-pack-22252
+Shovel 3D Model: https://assetstore.unity.com/packages/3d/props/realistic-shovel-clean-179431<br />
+Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/cope-free-skybox-pack-22252<br />
 
 Repositorios:
 
